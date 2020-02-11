@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>5Words counted from: data/getty.txt</title>
+<link href="http://web.cse.ohio-state.edu/software/2231/web-sw2/assignments/projects/tag-cloud-generator/data/tagcloud.css" rel="stylesheet" type="text/css">
+<body>
+<h2>5Words counted from: data/getty.txt</h2>
+<hr>
+<div class = "cdiv>"
+<p class = "cbox">
